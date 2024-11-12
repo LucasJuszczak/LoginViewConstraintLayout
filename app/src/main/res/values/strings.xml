@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">LoginViewConstraintLayout</string>
+    <string name="emailHint">E-mail</string>
+    <string name="textPassword">Senha</string>
+    <string name="login">Login</string>
+    <string name="ainda_nao_cadastrado">Ainda não é cadastrado?</string>
+    <string name="cadastro">Cadastre-se</string>
+    <string name="senha_esquecida">Esqueceu a sua senha?</string>
 </resources>

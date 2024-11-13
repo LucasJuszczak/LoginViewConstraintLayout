@@ -26,6 +26,6 @@ class UserActivity : AppCompatActivity(),  View.OnClickListener {
     }
 
     override fun onClick(view: View) {
-        Toast.makeText(this, "Congratulations, you got it!", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Bem Viado", Toast.LENGTH_SHORT).show()
     }
 }

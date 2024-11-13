@@ -25,7 +25,7 @@ class UserActivity : AppCompatActivity(),  View.OnClickListener {
         binding.button.setOnClickListener(this)
     }
 
-    override fun onClick(p0: View?) {
+    override fun onClick(view: View) {
         Toast.makeText(this, "Congratulations, you got it!", Toast.LENGTH_SHORT).show()
     }
 }

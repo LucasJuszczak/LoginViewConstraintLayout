@@ -22,7 +22,7 @@ class UserActivity : AppCompatActivity(),  View.OnClickListener {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-        binding.button.setOnClickListener(this)
+        binding.buttonUser.setOnClickListener(this)
     }
 
     override fun onClick(view: View) {
